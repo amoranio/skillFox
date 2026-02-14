@@ -1,6 +1,7 @@
 # Skillfox
 
 Skillfox is a native macOS menu bar app for viewing AI Agent skills by provider.
+![skillFox](https://raw.githubusercontent.com/amoranio/skillFox/refs/heads/main/Icons/skillfox.jpg)
 
 ## What it does
 
